@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- **iam-bgst/iam-bgst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-- 👋 Hi, I’m Didin
+- 👋 Hi, I’m Bima
 - 👀 I’m interested in Back End Engineer
 - 🌱 I’m currently learning GoLang Programming
 - 💞️ Make a better future
