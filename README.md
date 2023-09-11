@@ -4,7 +4,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=iam-bgst)](https://github.com/iam-bgst)
 
 I'm Bima Gusta! 
-- <i>Currently:</i> Internship at Efishery Bandung. 
+- <i>Currently:</i> Internship at [eFishery](https://github.com/eFishery) Bandung. 
 - <i>Previously:</i> Backend at PT. Manggala Technology.
 
 ## 💻 I'm Currently workng on
@@ -34,4 +34,4 @@ This demonstrates my ability to be self-sufficient and disciplined in managing t
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:bimagusta@gmail.com">![bimagusta61@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/bima-gusta/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:bimagusta61@gmail.com">![bimagusta61@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/bima-gusta/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
