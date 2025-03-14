@@ -36,7 +36,7 @@ This demonstrates my ability to be self-sufficient and disciplined in managing t
 <div>
     <p>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png" alt="GO">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" alt="Figma">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/160px-Figma-logo.svg.png" alt="Figma">
     </p>
 </div>
 
