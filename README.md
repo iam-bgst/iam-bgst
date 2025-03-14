@@ -4,8 +4,10 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=iam-bgst)](https://github.com/iam-bgst)
 
 I'm Bima Gusta! 
-- <i>Currently:</i> Internship at [eFishery](https://github.com/eFishery) Bandung. 
-- <i>Previously:</i> Backend at PT. Manggala Technology.
+- <i>Okt 2024 - Now:</i> Bakcend PointsNet Malaysia.
+- <i>Apr 2023 - Apr 2024:</i> Backend Paid Internship at [eFishery](https://github.com/eFishery) Bandung. 
+- <i>Jun 2022 - Nov 2022:</i> Backend at PT. Manggala Technology Kediri.
+- <i>Sep 2018 - Mei 2022:</i> Backend at Multec.TC Kediri.
 
 ## 💻 I'm Currently workng on
 - Software Engineering (Backend)
