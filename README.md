@@ -33,8 +33,12 @@ I believe that I have exceptional skills and expertise in the field of programmi
 This demonstrates my ability to be self-sufficient and disciplined in managing time and tasks.
 
 ## Most Used
-![Go](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png)
-![Figma](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png)
+<div>
+    <p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png" alt="GO">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" alt="Figma">
+    </p>
+</div>
 
 - Know more about me: [About Bima Gusta](https://iam-bgst.my.id)
 - Write to me: [bimagusta61@gmail.com](mailto:bimagusta61@gmail.com)
