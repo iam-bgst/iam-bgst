@@ -11,6 +11,7 @@ I'm Bima Gusta!
 
 ## 💻 I'm Currently workng on
 - Software Engineering (Backend)
+- UI in Figma Only (Freelance)
 
 
 ## 👀 Stats
