@@ -32,6 +32,10 @@ I'm a programmer who is used to working from home and comes from Kediri, East Ja
 I believe that I have exceptional skills and expertise in the field of programming and have become accustomed to working independently from home. 
 This demonstrates my ability to be self-sufficient and disciplined in managing time and tasks.
 
+## Most Used
+![Go](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png)
+![Figma](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png)
+
 - Know more about me: [About Bima Gusta](https://iam-bgst.my.id)
 - Write to me: [bimagusta61@gmail.com](mailto:bimagusta61@gmail.com)
 
