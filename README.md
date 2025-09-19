@@ -3,16 +3,16 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=iam-bgst)](https://github.com/iam-bgst)
 
-I'm Bima Gusta! 
+I'm Bima Gusta! trying to be Generalist
 - <i>Okt 2024 - Now:</i> Bakcend PointsNet Malaysia.
 - <i>Apr 2023 - Apr 2024:</i> Backend Paid Internship at [eFishery](https://github.com/eFishery) Bandung. 
 - <i>Jun 2022 - Nov 2022:</i> Backend at PT. Manggala Technology Kediri.
 - <i>Sep 2018 - Mei 2022:</i> Backend at Multec.TC Kediri.
 
 ## 💻 I'm Currently workng on
-- Software Engineering (Backend)
-- UI in Figma Only (Freelance)
-
+- Software Engineering (Backend) - <b>Focus</b>
+- UI in Figma Only & Frontend Web/mobile (Freelance) 
+- Learing to be Infrastructures
 
 ## 👀 Stats
 <div>
