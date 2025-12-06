@@ -1,4 +1,3 @@
-![Bima Gusta Banner Image](./banner.png)
 ## Hey! 👋
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=iam-bgst)](https://github.com/iam-bgst)
